@@ -1,0 +1,26 @@
+{
+  "name": "Lesson 1",
+  "homepage": "https://github.com/200239087/comp1073-lesson1",
+  "authors": [
+    "200239087 <200239087@student.georgianc.on.ca>"
+  ],
+  "description": "Demo App Lesson 1",
+  "main": "",
+  "keywords": [
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7"
+  }
+}
